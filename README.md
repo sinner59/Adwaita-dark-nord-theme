@@ -1,0 +1,1 @@
+# Adwaita-dark-nord-theme
