@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Adwaita-dark-nord
+Comment=Adwaita dark variation with nord color
+Comment=Author: Maxime DOYEN
+Version=v1.0
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Adwaita-dark-nord
+MetacityTheme=Adwaita-dark-nord
+IconTheme=Adwaita
+CursorTheme=DMZ-White
+ButtonLayout=:minimize,maximize,close
+
